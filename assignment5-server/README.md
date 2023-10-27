@@ -4,7 +4,7 @@ This server is built with express, mongoose and typescript
 
 frontend:
 
-1. https://booknet-frontend.netlify.app/add-book
+1. https://booknet-frontend.netlify.app
 
 Backend:
 
