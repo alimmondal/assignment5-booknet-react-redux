@@ -1,0 +1,99 @@
+[
+  {
+    "_id": 1,
+    "title": "Silver Under NightFall",
+    "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781982195724_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "price": 31.99,
+    "genre": "Sci-Fi",
+    "author": "Rebecca Yarros",
+    "publicationDate": true,
+    "rating": 4,
+    "status": true,
+    "comments": []
+  },
+  {
+    "_id": 2,
+    "title": "The Gloom Between Star",
+    "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781728285351_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "price": 32.38,
+    "genre": "drama",
+    "author": "Rebecca Yarros ",
+    "publicationDate": "12/05/2023",
+    "rating": 3,
+    "status": true,
+    "comments": []
+  },
+  {
+    "_id": 3,
+    "title": "The Soul of Ash",
+    "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781957568584_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "price": 48.79,
+    "genre": "drama",
+    "author": " Rachel Howzell Hall",
+    "publicationDate": "12/05/2023",
+    "rating": 5,
+    "status": true,
+    "comments": []
+  },
+
+  {
+    "_id": 6,
+    "title": "The Collector",
+    "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780062834874_p0_v3%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "price": 31.99,
+    "genre": "drama",
+    "author": "Daniel Silva",
+    "publicationDate": "12/05/2023",
+    "rating": 4,
+    "status": true,
+    "comments": []
+  },
+  {
+    "_id": 7,
+    "title": "Red Blade",
+    "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9780593600115_p0_v1%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "price": 31.99,
+    "genre": "drama",
+    "author": " Tracy Wolff",
+    "publicationDate": "12/05/2023",
+    "rating": 4,
+    "status": true,
+    "comments": []
+  },
+  {
+    "_id": 8,
+    "title": "Blade of Dream",
+    "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&source=url%5Bhttps://prodimage.images-bn.com/pimages/9780316421898_p0_v2_s600x595.jpg%5D&scale=options%5Blimit%5D,size%5B300x10000%5D&sink=format%5Bwebp%5D",
+    "price": 31.99,
+    "genre": "Science Fiction",
+    "author": "Daniel Abraham",
+    "publicationDate": "12/05/2023",
+    "rating": 4,
+    "status": true,
+    "comments": []
+  },
+  {
+    "_id": 9,
+    "title": "Monster",
+    "image": "https://prodimage.images-bn.com/lf?set=key%5Bresolve.pixelRatio%5D,value%5B1%5D&set=key%5Bresolve.width%5D,value%5B300%5D&set=key%5Bresolve.height%5D,value%5B10000%5D&set=key%5Bresolve.imageFit%5D,value%5Bcontainerwidth%5D&set=key%5Bresolve.allowImageUpscaling%5D,value%5B0%5D&set=key%5Bresolve.format%5D,value%5Bwebp%5D&product=path%5B/pimages/9781250833662_p0_v2%5D&call=url%5Bfile:common/decodeProduct.chain%5D",
+    "price": 31.99,
+    "genre": "drama",
+    "author": "Hannah Nicole Maehrer",
+    "publicationDate": "12/05/2023",
+    "rating": 4,
+    "status": true,
+    "comments": []
+  },
+  {
+    "_id": 10,
+    "title": "Phoenix Unbound",
+    "image": "https://m.media-amazon.com/images/I/516ucnSAgML._BG0,0,0,0_FMpng_AC_SY320_SX320_.jpg",
+    "price": 31.99,
+    "genre": "fiction",
+    "author": "Grace Draven",
+    "publicationDate": "12/05/2023",
+    "rating": 5,
+    "status": true,
+    "comments": []
+  }
+]
